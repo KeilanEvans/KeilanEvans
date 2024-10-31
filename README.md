@@ -17,7 +17,50 @@ Feel free to reach out to me if you want to collaborate on a project, discuss da
 
 Happy coding! 😊
 
-<!---
-KeilanEvans/KeilanEvans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+# **CV** 🚀
+
+## **Work Experience** 💼
+
+### **Data Scientist, Office for National Statistics** 📊
+- Aligned projects with specs, recommending solutions to enhance functionality.
+- Led stakeholder meetings to prioritize tasks and deliver updates.
+- Trained and supported new colleagues on projects.
+- Supported senior developers during project restructuring.
+- Developed and maintained Python pipelines for data extraction and processing.
+- Utilized Python libraries (pandas, NumPy, scikit-learn) to achieve goals.
+- Managed version control of pipelines using GitHub.
+- Managed Kanban boards for efficient workflow.
+- Proposed suitable delivery methods (Agile, waterfall) for products.
+- Conducted comprehensive testing of pipelines.
+- Conducted code reviews to ensure quality.
+- Ensured compliance with ethical guidelines in data science projects.
+- Researched new techniques for continuous learning and improvement.
+- Collaborated to identify user needs and develop data science products.
+- Managed continuous professional development (CPD).
+- Discussed benefits of data science with stakeholders.
+- Recognized for significant achievements and contributions.
+
+---
+
+## **Technical Skills** 🛠️
+- **Programming Languages**: Python, SQL
+- **Data Analysis**: pandas, NumPy, scikit-learn
+- **Data Visualization**: Matplotlib, Seaborn
+- **Machine Learning**: scikit-learn, TensorFlow
+- **Version Control**: Git, GitHub
+- **Project Management**: Agile, Kanban
+- **Operating Systems**: Windows, MacOS
+- **Tools**: Jupyter Notebook, VS Code
+
+---
+
+## **Qualifications** 🎓
+- BSc Applied Data Science (in progress)
+- HNC Law (Pass)
+- HNC Software Development and Networking (Pass)
+- BTEC National Diploma ICT (MMM)
+- 8 GCSE’s including Maths and English
+
+---
